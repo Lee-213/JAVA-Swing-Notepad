@@ -58,9 +58,8 @@
 
 <!-- 在这里放项目截图 -->
 
-例如：
+<img width="781" height="585" alt="image" src="https://github.com/user-attachments/assets/fbafcd88-a2e0-486a-84fd-13fbf6003797" />
 
-![Main Interface](images/main.png)
 
 ---
 
@@ -79,29 +78,29 @@
 
 ## 📁 Project Structure
 
-'''text
-
-Java-Notepad
+```text
+Java-Swing-Notepad
 │
 ├── src
-│ │
-│ ├── dao
-│ │ └── UserDao.java
-│ │
-│ ├── entity
-│ │ └── User.java
-│ │
-│ ├── listener
-│ │ └── ActionListener classes
-│ │
-│ ├── view
-│ │ ├── LoginFrame.java
-│ │ ├── RegisterFrame.java
-│ │ └── NotepadFrame.java
-│ │
-│ └── Main.java
+│   │
+│   ├── dao
+│   │   └── UserDao.java
+│   │
+│   ├── entity
+│   │   └── User.java
+│   │
+│   ├── listener
+│   │   └── ActionListener classes
+│   │
+│   ├── view
+│   │   ├── LoginFrame.java
+│   │   ├── RegisterFrame.java
+│   │   └── NotepadFrame.java
+│   │
+│   └── Main.java
 │
 ├── data
-│ └── users.txt
+│   └── users.txt
 │
 └── README.md
+```
